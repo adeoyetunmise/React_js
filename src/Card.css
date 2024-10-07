@@ -1,0 +1,28 @@
+.card{
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    height: 200px;
+    overflow: hidden;
+}
+
+.card-body h2{
+    color: rgb(5. 68, 84);
+}
+
+.card-body{
+    padding: 10px;
+}
+
+.txt{
+    font-family: 'Courier New', Courier, monospace;
+    font-family: italic;
+    color: rgb(226, 7, 18);
+}
+
+.email{
+    font-size: small;
+}
+
+

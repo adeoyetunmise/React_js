@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "quote": "Success is not final, failure is not fatal.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "quote": "Believe you can and you're halfway there.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "quote": "Hard work beats talent when talent doesn’t work hard.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Bob Williams",
+      "email": "bob.williams@example.com",
+      "quote": "Act as if what you do makes a difference.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "quote": "The only way to do great work is to love what you do.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "quote": "Life is what happens when you're busy making other plans.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Chloe Wilson",
+      "email": "chloe.wilson@example.com",
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Ethan Taylor",
+      "email": "ethan.taylor@example.com",
+      "quote": "What we think, we become.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson@example.com",
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Oliver Martinez",
+      "email": "oliver.martinez@example.com",
+      "quote": "Happiness is not by chance, but by choice.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  

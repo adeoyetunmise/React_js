@@ -1,0 +1,19 @@
+img{
+    width: 50%;
+}
+
+.person{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.App{
+    transition: all 0.5s ease-in-out;
+}
